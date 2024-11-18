@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <Wrapper className='container'>
             <div className='logo-div'>
-                <h3>Logo</h3>
+                <h3>Travel</h3>
                 <p>
                     A place where you can
                     dive,snorkle,relax,experience traditional culture
