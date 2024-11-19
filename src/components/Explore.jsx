@@ -19,25 +19,25 @@ const Explore = () => {
                         className='img'
                     />
                     <p>
-                        Lorem ipsum dolor sit amet consectetur
-                        adipisicing elit. Nostrum praesentium nobis
-                        deleniti temporibus totam. Cum.
+                        Tropical paradise with stunning beaches,
+                        vibrant culture, lush landscapes, unique
+                        temples, and warm hospitality.
                     </p>
                 </li>
                 <li>
                     <img src={resort} alt='beach' className='img' />
                     <p>
-                        Lorem, ipsum dolor sit amet consectetur
-                        adipisicing elit. Esse repellat magnam nemo
-                        repudiandae accusantium sint!
+                        Tropical paradise with stunning beaches,
+                        vibrant culture, lush landscapes, unique
+                        temples, and warm hospitality.
                     </p>
                 </li>
                 <li>
                     <img src={road} alt='beach' className='img' />
                     <p>
-                        Lorem ipsum dolor sit amet consectetur
-                        adipisicing elit. Omnis blanditiis facere quae
-                        eligendi? Autem, hic!
+                        Tropical paradise with stunning beaches,
+                        vibrant culture, lush landscapes, unique
+                        temples, and warm hospitality.
                     </p>
                 </li>
             </ul>

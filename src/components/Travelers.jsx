@@ -32,8 +32,9 @@ const Travelers = () => {
                     </div>
                     <div className='content'>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur
-                            adipisicing elit. Eaque, ipsam?
+                            An idyllic escape blending tranquility,
+                            thrilling adventures, and awe-inspiring
+                            natural splendor at every turn
                         </p>
                     </div>
                 </li>
@@ -53,8 +54,9 @@ const Travelers = () => {
                     </div>
                     <div className='content'>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur
-                            adipisicing elit. Eaque, ipsam?
+                            Paradise destination offering relaxation,
+                            adventure, and breathtaking natural beauty
+                            everywhere.
                         </p>
                     </div>
                 </li>
@@ -74,8 +76,8 @@ const Travelers = () => {
                     </div>
                     <div className='content'>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur
-                            adipisicing elit. Eaque, ipsam?
+                            Stunning beaches, vibrant culture, lush
+                            landscapes, and unforgettable experiences.
                         </p>
                     </div>
                 </li>
